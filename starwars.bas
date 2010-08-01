@@ -1,0 +1,5 @@
+PLAY "T180 <d8d8d8 T120 g2>d2"
+PLAY "T180 c8<b8a8 T120 >g2d4"
+PLAY "T180 c8<b8a8 T120 >g2d4"
+PLAY "T180 c8<b8>c8 T120 <a2>"
+
